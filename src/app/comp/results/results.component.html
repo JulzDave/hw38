@@ -1,0 +1,25 @@
+<table style="border: 1px dashed grey;">
+    <tr>
+        <th style="color:black;text-decoration: underline;font-weight: bolder;border: 1px dashed grey;">
+            User ID
+        </th>
+        <th style="color:black;text-decoration: underline;font-weight: bolder;border: 1px dashed grey;">
+            Title
+        </th>
+        <th style="color:black;text-decoration: underline;font-weight: bolder;border: 1px dashed grey;">
+            Message
+        </th>
+    </tr>
+    <tr *ngFor="let user of users; let evenUser = even; let oddUser = odd"
+        [ngClass]="{odd:oddUser, even:evenUser, first:firstUser, last:lastUser}">
+        <td>
+                {{user.userId}}
+        </td>
+        <td>
+            {{user.title}}
+        </td>
+        <td>
+            {{user.body}}
+        </td>
+    </tr>
+</table>

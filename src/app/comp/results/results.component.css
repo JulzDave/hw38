@@ -1,0 +1,16 @@
+.even{
+    background: grey;
+    color:white;
+}
+.odd{
+    background:white ;
+    color:black;
+}
+.first{
+    background:black;
+    color: white;
+}
+.last{
+    background:black;
+    color: white;
+}

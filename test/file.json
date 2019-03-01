@@ -1,0 +1,67 @@
+{  "users": [
+    {
+        "name": "Julian",
+        "isOnline": true
+    },
+    {
+        "name": "Yaron",
+        "isOnline": false
+    },
+    {
+        "name": "Ronen",
+        "isOnline": true
+    },
+    {
+        "name": "Julian",
+        "isOnline": true
+    },
+    {
+        "name": "Yaron",
+        "isOnline": false
+    },
+    {
+        "name": "Ronen",
+        "isOnline": true
+    },
+    {
+        "name": "Julian",
+        "isOnline": true
+    },
+    {
+        "name": "Yaron",
+        "isOnline": false
+    },
+    {
+        "name": "Ronen",
+        "isOnline": true
+    },
+    {
+        "name": "Julian",
+        "isOnline": true
+    },
+    {
+        "name": "Yaron",
+        "isOnline": false
+    },
+    {
+        "name": "Ronen",
+        "isOnline": true
+    },
+    {
+        "name": "Julian",
+        "isOnline": true
+    },
+    {
+        "name": "Yaron",
+        "isOnline": false
+    },
+    {
+        "name": "Ronen",
+        "isOnline": true
+    },
+    {
+        "name": "Aviad",
+        "isOnline": false
+    }
+]
+}
